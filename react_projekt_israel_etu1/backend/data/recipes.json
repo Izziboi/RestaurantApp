@@ -1,0 +1,49 @@
+[
+  {
+    "african": [
+      {"title": "African Dishes", "id": "c1"},
+      {"id": "r1",
+      "src": "http://localhost:3000/images/eba_egusi.jpg",
+      "alt": "Eba and Egusi Soup",
+      "recipe": "Eba and Egusi Soup",
+      "ingredients": ["Melon", "Palm oil", "Stockfish", "Salt"]
+      },
+      {"id": "r2",
+      "src": "http://localhost:3000/images/jollof_rice.webp",
+      "alt": "Jollof Rice",
+      "recipe": "Jollof Rice",
+      "ingredients": ["Rice", "Tomato", "Vegetable Oil", "Maggi", "Salt"]
+      }
+    ],
+    "asian": [
+      {"title": "Asian Dishes", "id": "c2"},
+      {"id": "r3",
+      "src": "http://localhost:3000/images/biryani.webp",
+      "alt": "Biryani",
+      "recipe": "Biryani",
+      "ingredients": ["Rice", "Mutton", "Curry", "Salt"]
+      },
+      {"id": "r4",
+      "src": "http://localhost:3000/images/chicken_curry.jpg",
+      "alt": "Chicken Curry",
+      "recipe": "Chicken Curry",
+      "ingredients": ["Rice", "Chicken", "Curry", "Salt"]
+      }
+    ],
+    "european": [
+      {"title": "European Dishes", "id": "c3"},
+      {"id": "r5",
+      "src": "http://localhost:3000/images/mushroom_soup.webp",
+      "alt": "Mushroom Soup",
+      "recipe": "Mushroom Soup",
+      "ingredients": ["Mushroom", "Water", "Salt"]
+      },
+      {"id": "r6",
+      "src": "http://localhost:3000/images/pommes_chicken.jpg",
+      "alt": "Pommes and Chicken",
+      "recipe": "Pommes and Chicken",
+      "ingredients": ["Potato", "Chicken", "Salt"]
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+/*Buttons.js*/
+.btn-add-to-cart,
+.btn-add-to-favorite {
+  background-color: goldenrod;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  margin: 5px 5px 0px 0px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.btn-remove-from-favorite,
+.btn-default {
+  background-color: green;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  margin: 5px 5px 0px 0px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.btn-delete {
+  background-color: red;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  margin: 5px 5px 0px 0px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
